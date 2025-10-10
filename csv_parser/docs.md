@@ -30,7 +30,7 @@ target_link_libraries({your-target-name} PUBLIC csv_parser)
 ---
 # Available methods
 
-## Readline()
+## ReadLine()
 ### `std::vector<std::string> ReadLine(std::istream& input_stream, char escape_character='"')`
 
 ### Arguments: {#readline-arguments}
