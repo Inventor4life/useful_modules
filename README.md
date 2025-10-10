@@ -24,4 +24,4 @@ The basic library structure is defined below. All modules will have these files,
 # Releases
 | Module   | Description                                | Link to latest release |
 |--------  |-------------                               |------------------------|
-|csv_parser|basic module to parse csv files line-by-line|<https://github.com/Inventor4life/useful_modules/tree/6eaddc123f241acfa5e963a184581d804d50b06a>|
+|csv_parser|basic module to parse csv files line-by-line|<https://github.com/Inventor4life/useful_modules/tree/47b8f8b0b198706f9a3d0a2289be2dc45029db99>|
