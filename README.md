@@ -5,7 +5,7 @@ This is a collection of useful modules that came about as an easy way to package
 ## Academic integrity notice
 If using these modules for a class assignment, please be aware of any relevant Academic Integrity policies.
 
-## Getting the latest rlease
+## Getting the latest release
 The public interfaces and functionality of some of these modules may change at any point. While the changes will be noted in the changelog.txt, that won't help during unsupervised upgrades :P. There are no structured rollouts/releases of these modules. To get the latest complete version of a module, check the [releases](#releases) section at the end of this file for github links.
 
 ## Module structure
