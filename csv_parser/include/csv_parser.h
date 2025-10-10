@@ -11,7 +11,7 @@
 
 namespace csv {
 
-  std::vector<std::string> ReadLine(std::istream& in_stream, char escape_character = '"');
+  std::vector<std::string> ReadLine(std::istream& input_stream, char escape_character = '"');
 
 }
 #endif
