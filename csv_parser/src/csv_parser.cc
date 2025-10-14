@@ -20,7 +20,7 @@ Status ReadField(std::istream& input_stream, std::string& field, char escape_cha
     current_char = input_stream.get();
 
     // Check for end of file
-    if (input_stream.eof()) {
+    if (!input_stream) {
       return Status::kEndOfFile;
     }
 
