@@ -86,5 +86,5 @@ To highlight the difference between the quote character and escape character, we
 |`Unescaped " Special Character`             |undefined                                        |
 |`"Unescaped " Special Character in Quotes"` |undefined                                        |
 |`Escaped ^" Special Character, no Quotes`   |undefined                                        | 
-|`"Escaped ^" Special Character in Quotes"`  |`Escaped " Special Character in Quotes"`         |
+|`"Escaped ^" Special Character in Quotes"`  |`Escaped " Special Character in Quotes`          |
 |`" Mismatched containing quotes`            |undefined                                        |
